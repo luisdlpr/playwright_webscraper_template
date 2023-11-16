@@ -1,0 +1,201 @@
+[
+    {
+        "brand": "Lodes",
+        "option_44": "https://www.lodes.com/en/products/a-tube-ceiling/?code=rw",
+        "page_url": "a-tube-ceiling",
+        "code": "a-tube-ceiling",
+        "sku": "a-tube-ceiling",
+        "page_name": "A Tube Ceiling",
+        "tags": [
+            "Family",
+            "A-Tube",
+            "Lodes"
+        ],
+        "title": "A-Tube, Design by Studio Italia Design, 2013",
+        "summary": "A simple form that delivers the light to wherever it’s needed, enhancing the space. Tubular and slim, A-Tube is a versatile lamp, available in different sizes and finishes, that can be fixed directly to the ceiling, suspended singularly, or used in cluster compositions to create impactful lighting effects. A-Tube is a lamp characterised by an elegant, cylindrical design, perfect for illuminating specific points and furnishing with dynamic essentiality. Available in two versions, ceiling and suspension, it can be used either singularly or to create lively compositions distinguished by their differing lengths and finishes (matte white, matte black and coppery bronze). As a central feature with multiform lighting, in a neat row over a bench or in a rhythmic succession of different sized lines, A-Tube illuminates, becoming one with the interior architecture.     The aluminium body of A-Tube, with a diameter of 6 cm, is 4 mm thick, making it both solid and resilient. Inside, its structure is designed to house a GU10 lamp that diffuses direct light. The ceiling version, available in four sizes (14, 30, 60, 100 cm), can easily be fixed with a simple metal attachment. The suspension version comes in three different lengths, 30, 60 and 100 cm, which can be used as single pendants or combined on canopies to create multiple compositions.",
+        "meta_description": "A simple form that delivers the light to wherever it’s needed, enhancing the space. Tubular and slim, A-Tube is a versatile lamp, available in different sizes and finishes, that can be fixed directly to the ceiling, suspended singularly, or used in cluster compositions to create impactful lighting effects. A-Tube is a lamp characterised by an elegant, cylindrical design, perfect for illuminating specific points and furnishing with dynamic essentiality. Available in two versions, ceiling and suspension, it can be used either singularly or to create lively compositions distinguished by their differing lengths and finishes (matte white, matte black and coppery bronze). As a central feature with multiform lighting, in a neat row over a bench or in a rhythmic succession of different sized lines, A-Tube illuminates, becoming one with the interior architecture.     The aluminium body of A-Tube, with a diameter of 6 cm, is 4 mm thick, making it both solid and resilient. Inside, its structure is designed to house a GU10 lamp that diffuses direct light. The ceiling version, available in four sizes (14, 30, 60, 100 cm), can easily be fixed with a simple metal attachment. The suspension version comes in three different lengths, 30, 60 and 100 cm, which can be used as single pendants or combined on canopies to create multiple compositions.",
+        "description": "A simple form that delivers the light to wherever it’s needed, enhancing the space. Tubular and slim, A-Tube is a versatile lamp, available in different sizes and finishes, that can be fixed directly to the ceiling, suspended singularly, or used in cluster compositions to create impactful lighting effects. A-Tube is a lamp characterised by an elegant, cylindrical design, perfect for illuminating specific points and furnishing with dynamic essentiality. Available in two versions, ceiling and suspension, it can be used either singularly or to create lively compositions distinguished by their differing lengths and finishes (matte white, matte black and coppery bronze). As a central feature with multiform lighting, in a neat row over a bench or in a rhythmic succession of different sized lines, A-Tube illuminates, becoming one with the interior architecture.     The aluminium body of A-Tube, with a diameter of 6 cm, is 4 mm thick, making it both solid and resilient. Inside, its structure is designed to house a GU10 lamp that diffuses direct light. The ceiling version, available in four sizes (14, 30, 60, 100 cm), can easily be fixed with a simple metal attachment. The suspension version comes in three different lengths, 30, 60 and 100 cm, which can be used as single pendants or combined on canopies to create multiple compositions.",
+        "image_url_1": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Ceiling-03.jpg",
+        "size": "Mini,Small,Medium,Large",
+        "colour": "Matte White,Matte Black,Coppery Bronze",
+        "option_22": "",
+        "gallery_image_1": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Ceiling-01.jpg",
+        "gallery_image_2": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Ceiling-02.jpg",
+        "gallery_image_3": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Ceiling-04.jpg",
+        "gallery_image_4": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Ceiling-05.jpg",
+        "gallery_image_5": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Ceiling-06.jpg",
+        "gallery_image_6": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Suspension-22-01.jpg",
+        "image_file_url": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Large-Ceiling-Bronze.png",
+        "products": [
+            {
+                "tags": [
+                    "Family",
+                    "A-Tube",
+                    "Lodes"
+                ],
+                "path_name": "a-tube-ceiling",
+                "sku": "A-Tube-mini-Matte-White-9010",
+                "code": "09631 1000",
+                "page_url": "a-tube-ceiling-09631-1000",
+                "page_name": "A-Tube mini",
+                "brand": "Lodes",
+                "summary": "A simple form that delivers the light to wherever it’s needed, enhancing the space. Tubular and slim, A-Tube is a versatile lamp, available in different sizes and finishes, that can be fixed directly to the ceiling, suspended singularly, or used in cluster compositions to create impactful lighting effects. A-Tube is a lamp characterised by an elegant, cylindrical design, perfect for illuminating specific points and furnishing with dynamic essentiality. Available in two versions, ceiling and suspension, it can be used either singularly or to create lively compositions distinguished by their differing lengths and finishes (matte white, matte black and coppery bronze). As a central feature with multiform lighting, in a neat row over a bench or in a rhythmic succession of different sized lines, A-Tube illuminates, becoming one with the interior architecture.     The aluminium body of A-Tube, with a diameter of 6 cm, is 4 mm thick, making it both solid and resilient. Inside, its structure is designed to house a GU10 lamp that diffuses direct light. The ceiling version, available in four sizes (14, 30, 60, 100 cm), can easily be fixed with a simple metal attachment. The suspension version comes in three different lengths, 30, 60 and 100 cm, which can be used as single pendants or combined on canopies to create multiple compositions.",
+                "description": "A simple form that delivers the light to wherever it’s needed, enhancing the space. Tubular and slim, A-Tube is a versatile lamp, available in different sizes and finishes, that can be fixed directly to the ceiling, suspended singularly, or used in cluster compositions to create impactful lighting effects. A-Tube is a lamp characterised by an elegant, cylindrical design, perfect for illuminating specific points and furnishing with dynamic essentiality. Available in two versions, ceiling and suspension, it can be used either singularly or to create lively compositions distinguished by their differing lengths and finishes (matte white, matte black and coppery bronze). As a central feature with multiform lighting, in a neat row over a bench or in a rhythmic succession of different sized lines, A-Tube illuminates, becoming one with the interior architecture.     The aluminium body of A-Tube, with a diameter of 6 cm, is 4 mm thick, making it both solid and resilient. Inside, its structure is designed to house a GU10 lamp that diffuses direct light. The ceiling version, available in four sizes (14, 30, 60, 100 cm), can easily be fixed with a simple metal attachment. The suspension version comes in three different lengths, 30, 60 and 100 cm, which can be used as single pendants or combined on canopies to create multiple compositions.",
+                "colour": "Matte White",
+                "colour_temp": "",
+                "size": "Mini",
+                "option_3": "GU10 Par 16",
+                "option_5": "40 W",
+                "option_26": " 0.20 kg",
+                "option_13": "DIM",
+                "option_21": "IP 20",
+                "related_file_1": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Mini-Ceiling.png",
+                "related_file_4": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=13769&variantID=2513&code=eu&lng=en",
+                "related_file_3": "https://www.lodes.com/wp-content/uploads/2021/03/IST-09602_Rev01_CE_PRINT-2.pdf",
+                "related_file_5": "https://www.lodes.com/wp-content/uploads/2021/03/ldt_A-TUBE_Ceiling_Mini_GU10_CE.zip",
+                "2d_drawing": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Mini-Ceiling-2D.pdf",
+                "related_file_2": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-ceiling.zip",
+                "option_2": "https://www.lodes.com/wp-content/uploads/2020/03/Bianco-Opaco-9010-1.jpg",
+                "product_thumbnail": "https://www.lodes.com/wp-content/uploads/2021/03/A-Tube-Mini-Ceiling-White.png"
+            },
+    },
+] 
+
+- family colours
+- family colour temps
+- family dimming
+- family styles
+- family ips
+- family beams
+- family product
+    - url - (postfix)
+    - code?
+    - sku code?
+    - page name - product name
+    - title - product name
+    - summary - highlight desc
+    - description - product description
+    - image_file_url - highlight image url
+    - image url 1….6
+    - gallery_image_…
+    - products
+        - id
+        - main image
+        - name
+        - description
+        - link
+        - details
+            - colour
+            - designer
+            - summary
+            - technical images
+            - product links
+                - heading
+                    - linkname
+            - specifications
+                - main specifications
+                    - mounting
+                    - environment
+                    - light source type
+                    - led type
+                    - lamp category
+                    - ilcos
+                    - bulb finish
+                    - number of heads
+                    - power
+                    - system power
+                    - source flux
+                    - system flux
+                    - efficacy
+                - photometric
+                    - …
+                - Electrical
+                - physical
+
+- [x]  :page-url : maps to path name
+- [x]  page-url for products also family-page-url-skewcode
+- [x]  colors as a string
+- [x]  size: mini, large, etc for product and family
+- [x]  capitalise first letter of tags
+- [x]  thumbnail image_file_url
+- [x]  brand field for family and product
+- [x]  fix options mappings
+- [x]  for collections - get rid of path name,
+- [x]  page-url add collection aswell.
+
+"code": {"label": "Product Code"},
+"brand": {"label": "Brand"},
+"page_name": {"label": "Product Name"},
+"title": {"label": "Family Name/Title"},
+"item_type": {"label": "Application"},
+"style": {"label": "Mounting"},
+"dimensions": {"label": "Dimensions", "type": "text", "container_class": "ui-field-contain"},
+"volume": {"label": "Flux (lm)"},
+"finish": {"label": "Finish"},
+"colour": {"label": "Colour", "swatch": 1},
+"material": {"label": "Product Finish"},
+"category": {"label": "Beam Angle Type"},
+"image_url_1": {"label": "Image 1 - Banner"},
+"image_url_2": {"label": "Image 2 - Datasheet"},
+"image_url_3": {"label": "Image 3 - In Situ"},
+"image_url_5": {"label": "Image 5 - Award Icon"},
+
+"gallery_image_1": {"type": "text", "label": "Gallery Image 1"},
+"gallery_image_2": {"type": "text", "label": "Gallery Image 2"},
+"gallery_image_3": {"type": "text", "label": "Gallery Image 3"},
+"gallery_image_4": {"type": "text", "label": "Gallery Image 4"},
+"gallery_image_5": {"type": "text", "label": "Gallery Image 5"},
+"gallery_image_6": {"type": "text", "label": "Gallery Image 6"},
+"gallery_image_7": {"type": "text", "label": "Gallery Image 7"},
+"gallery_image_8": {"type": "text", "label": "Gallery Image 8"},
+"gallery_image_9": {"type": "text", "label": "Gallery Image 9"},
+"gallery_image_10": {"type": "text", "label": "Gallery Image 10"},
+
+"related_file_1": {"label": "Dimension Drawing", "type": "text"},
+"related_file_2": {"label": "CAD", "type": "text"},
+"related_file_3": {"label": "Instructions", "type": "text"},
+"related_file_4": {"label": "Datasheet", "type": "text"},
+"related_file_5": {"label": "LDT", "type": "text"},
+"option_2": {"label": "Colour RAL"},
+"option_3": {"label": "Light Source"},
+"option_4": {"label": "Socket"},
+"option_5": {"label": "Net Luminous Flux"},
+"option_6": {"label": "Power"},
+"option_7": {"label": "Efficacy"},
+"option_8": {"label": "CRI"},
+"option_9": {"label": "Chromatic Stability"},
+"option_10": {"label": "Beam Angle"},
+"option_11": {"label": "Lighting Efficiency"},
+"option_12": {"label": "Current Intensity"},
+"option_13": {"label": "Dimming"},
+"option_14": {"label": "Driver"},
+"option_15": {"label": "Emergency Power Supply"},
+"option_16": {"label": "Bluetooth"},
+"option_17": {"label": "Electrical Insulation"},
+"option_18": {"label": "Voltage"},
+"option_19": {"label": "Energy Efficiency"},
+"option_20": {"label": "LED Lifespan"},
+"option_21": {"label": "Ingress Protection"},
+"option_22": {"label": "Colour Temperature"},
+"option_23": {"label": "Track Type"},
+"option_24": {"label": "IK Rating"},
+"option_25": {"label": "Recess Measurement"},
+"option_26": {"label": "Packaged Weight"},
+"option_27": {"label": "Package Dimension"},
+"option_28": {"label": "Units per Package"},
+"option_29": {"label": "Designer"},
+"option_30": {"label": "Installation Type"},
+"option_31": {"label": "Electrical Characteristics"},
+"option_32": {"label": "Accessories"},
+"option_33": {"label": "Energy Label"},
+"option_34": {"label": "Frequency"},
+"option_49": {"label": "Designer Include Page URL"},
+"option_44": {"label": "Shipping Size"},
+"option_45": {"label": "Effect"},
+"option_46": {"label": "Reserved for Stock Label"},
+"option_47": {"label": "No Bulb (set to 1)"},
+"option_48": {"label": "In Stock Label"},
+"option_35": {"label": "Lighting Distribution"},
+"option_40": {"label": "Alternative Page Name"},
+"option_50": {"label": "Search Keywords"}
+}
